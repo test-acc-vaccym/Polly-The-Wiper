@@ -1,0 +1,13 @@
+Thoughts:
+
+I have been playing for a while with this idea of Polly the Wiper.  What if
+you run a whistleblower site and need to encrypt or strip the file of
+metadata. The file could still be in memory or data from the file in
+memory, possibly even keys in memory which are used to encrypt or decrypt
+them, this could out the source, so how to fix this?
+
+Ofcourse there will always be loopholes, but we can try to make realtime
+encryption and deleting any information about the encryption of/or file
+itself possible and secure.
+
+My 0,02 what does the community think?
