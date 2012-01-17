@@ -1,0 +1,31 @@
+Rule 0: Be sneaky
+Rule 1: Be really sneaky.
+Set paranoia level: secure, sneaky and paranoid.
+Secure is meant to, provide a secure framework incase someone tries to backdoor your server and you want it of when someone is doing funky stuff with it.
+Sneaky is meant to 
+Paranoid is meant to
+
+Set xscreensaver with an emergency password to halt the machine.
+Disable USB/firewire with a command like: polly stop-usb 
+halt -q the machine if command is activated when eth0 goes down.
+	{Check configuration file if enabled.}
+
+Write UDEV rules against forensics devices. 
+	{Lookup serials, names or manufacture names from devices, if found dont load. What about emulating and log their communications?
+	Disable expresscard/pcmcia/sdcards}
+
+Clean memory before halting the machine. (scrub)
+
+Need to figure out:
+Integrity of bootloader.
+Do funky stuff with grub.
+Wrapper for secure file deletion (flash, scsi, ide, sata.)
+Include HAL/udisk?
+
+Udev references: 
+http://reactivated.net/writing_udev_rules.html
+https://wiki.archlinux.org/index.php/Udev
+Python wrapper: http://packages.python.org/pyudev/api/index.html
+
+Other references
+https://gist.github.com/1623996
