@@ -21,6 +21,9 @@ Integrity of bootloader.
 Do funky stuff with grub.
 Wrapper for secure file deletion (flash, scsi, ide, sata.)
 Include HAL/udisk?
+Disable expresscard, thunderbolt, firewire to protect against DMA attacks [1]
+
+[1] http://www.breaknenter.org/projects/inception/
 
 Udev references: 
 http://reactivated.net/writing_udev_rules.html
