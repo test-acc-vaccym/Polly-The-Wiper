@@ -1,46 +1,32 @@
-Polly The Wiper
 
-=[ WARNING!!!1111
-WARNING EXPERIMENTAL SOFTWARE!
-I AM NOT RESPONSIBLE FOR ANY DATALOSS!
-Never run or compile as root.
+ooooooooo            o888  o888             
+ 888    888  ooooooo   888   888 oooo   oooo 
+ 888oooo88 888     888 888   888  888   888  
+ 888       888     888 888   888   888 888   
+o888o        88ooo88  o888o o888o    8888    
+                                  o8o888     
+============================================
 
-=[ Introduction
+### What is Polly The Wiper?
+'Polly the Wiper' is an anti-forensics tool which is not that sneaky. it helps to 
+defend against evil forces trying to takeover your computer using flashdrives,
+usb(1,2,3), firewire(400.800), expresscard slots, thunderbolt. Like hotplugging
+your PSU, ethernet cables and much more. 
 
-Inspired by libraries as LibSecRm and THC-SecureDelete and scrub, Polly The
-Wiper aims to be a mix of them and bring them to a higher level of
-awesomeness!!11
+Also emergency options build in to reboot/shutdown/boot into other OS to distract 
+forensics people and tools.
 
-File wiper.
-Swap and memory wiper, also in realtime.
-Obfuscating library calls.
+I don't provide any warranty, use at your own risk!
 
-More to come soon.
+### How do I Install it?
+See the 'INSTALL' file for this.
 
-=[ License
+### What are the requirements?
+Root access and please install the files which you can find in the 'requirements.txt' 
+and the 'INSTALL' file.
 
-Copyright (c) <2011> <drwhax at 2600nl dot net>
+### How do I use it?
+Coming soon.
 
-Permission is hereby granted, free of charge, to any person obtaining a
-copy of this software and associated documentation files (the "Software"),
-to deal in the Software without restriction, including without limitation
-the rights to use, copy, modify, merge, publish, distribute, sublicense,
-and/or sell copies of the Software, and to permit persons to whom the
-Software is furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in
-all copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
-FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER
-DEALINGS IN THE SOFTWARE. 
-
-=[ Contact
-
-drwhax at 2600nl dot net
-
-EOF
+### Who are the authors?
+To see who develops 'Polly the Wiper', please see the "AUTHORS" file.
