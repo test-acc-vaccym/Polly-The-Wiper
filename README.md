@@ -16,7 +16,7 @@ your PSU, ethernet cables and much more.
 Also emergency options build in to reboot/shutdown/boot into other OS to distract 
 forensics people and tools.
 
-I don't provide any warranty, use at your own risk!
+By using this software, you will hereby agree that you will use this at your own risk
 
 ### How do I Install it?
 See the 'INSTALL' file for this.
@@ -27,6 +27,3 @@ and the 'INSTALL' file.
 
 ### How do I use it?
 Coming soon.
-
-### Who are the authors?
-To see who develops 'Polly the Wiper', please see the "AUTHORS" file.
